@@ -1,0 +1,1 @@
+{"name":"auth-stack-explorer","private":true,"type":"module","scripts":{"dev":"vite","build":"tsc --noEmit && vite build"},"dependencies":{"react":"^19","react-dom":"^19","lucide-react":"^0.468","framer-motion":"^12","tailwindcss":"^4","@tailwindcss/vite":"^4","vite":"^7","typescript":"^5","@types/react":"^19","@types/react-dom":"^19"}}
